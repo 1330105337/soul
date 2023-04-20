@@ -1,0 +1,1 @@
+INSERT INTO lovefinder.user (id, userName, userAccount, userAvatar, gender, userRole, userPassword, createTime, updateTime, isDelete) VALUES (1, 'huazi', '1330105337', '0', 0, '1', 'fc31b14cbcb91ba31f738f902e0e8504', '2023-04-01 18:24:00', '2023-04-01 18:26:48', 0);
